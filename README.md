@@ -17,3 +17,5 @@ find a pair of points that are closest with respect to the distance measure,
 ![image](https://user-images.githubusercontent.com/54428986/134126411-b882fa4d-b22d-49f0-ac39-5bd04df2d210.png)
 
 
+The program takes an input file and outputs results to the standard output. 
+
